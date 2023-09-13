@@ -1,0 +1,15 @@
+$background-color: green;
+
+body {
+    margin: 0px;
+}
+
+div {
+    display: flex;
+    margin: 0px;
+    color: yellowgreen;
+    background-color: $background-color;
+    justify-content: center;
+}
+
+
